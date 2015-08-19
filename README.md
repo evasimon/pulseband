@@ -2,7 +2,7 @@ This is my first responsive web page that I have hand coded (mobile-first approa
 
 The live web page can be visited @ http://evasimon.me/pulseband/
     
-#responsive-design #HTML #CSS #inline-SVG #icon-fonts #animation #plug-ins #javascript/jquery
+    #responsive-design #HTML #CSS #inline-SVG #icon-fonts #animation #plug-ins #javascript/jquery
 
 +++++++++++++++++++++++++++++++++++++++++++++
 
